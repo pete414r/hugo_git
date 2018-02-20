@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tekst Post on Design systems</title>
+    <link>http://www.prfrankild.dk/sem3/design_systems/categories/tekst-post/</link>
+    <description>Recent content in Tekst Post on Design systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2018 12:10:35 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.prfrankild.dk/sem3/design_systems/categories/tekst-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tags Kategorier HumØr</title>
+      <link>http://www.prfrankild.dk/sem3/design_systems/blog/blog1/</link>
+      <pubDate>Mon, 05 Feb 2018 12:10:35 +0100</pubDate>
+      
+      <guid>http://www.prfrankild.dk/sem3/design_systems/blog/blog1/</guid>
+      <description>myVar: &amp;ldquo;myValue for dir2 single&amp;rdquo; det her er blog1  {{ $var4 := &amp;ldquo;dog&amp;rdquo;}} {{ $var5 := &amp;ldquo;cat&amp;rdquo;}} {{if eq $var4 $var5}} true {{else}} false {{end}}
+eq equel to lt les then le les then equel to gt grater than ge grater than equel to not not donyt engage Copyright Holder All Rights Reserved. {{ $var1 := &amp;quot;1&amp;quot;}} {{ $var2 := &amp;quot;2&amp;quot;}} {{ $var3 := &amp;quot;3&amp;quot;}} {{if and (lt $var1 $var2) (lt $var1 $var3)}} True {{else}} False {{end}}&amp;lt;/p&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>post3</title>
+      <link>http://www.prfrankild.dk/sem3/design_systems/blog/post3/</link>
+      <pubDate>Mon, 05 Feb 2018 10:38:35 +0100</pubDate>
+      
+      <guid>http://www.prfrankild.dk/sem3/design_systems/blog/post3/</guid>
+      <description>this is a OM
+{{ truncate 15 &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ornare id leo ac cursus. Mauris consequat pulvinar velit vel rhoncus. Nullam aliquet turpis eu velit fermentum mattis. Vivamus sapien libero, bibendum eu ultrices ac, elementum sit amet velit.&amp;rdquo;}}</description>
+    </item>
+    
+    <item>
+      <title>post9</title>
+      <link>http://www.prfrankild.dk/sem3/design_systems/blog/post9/</link>
+      <pubDate>Mon, 05 Feb 2018 10:36:48 +0100</pubDate>
+      
+      <guid>http://www.prfrankild.dk/sem3/design_systems/blog/post9/</guid>
+      <description>this is a blog</description>
+    </item>
+    
+    <item>
+      <title>post8</title>
+      <link>http://www.prfrankild.dk/sem3/design_systems/blog/post8/</link>
+      <pubDate>Mon, 05 Feb 2018 09:58:48 +0100</pubDate>
+      
+      <guid>http://www.prfrankild.dk/sem3/design_systems/blog/post8/</guid>
+      <description>Hey there
+{{.Params.myVar}}</description>
+    </item>
+    
+  </channel>
+</rss>

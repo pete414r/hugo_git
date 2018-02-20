@@ -1,0 +1,38 @@
+<footer class="row middle-xs center-xs" id="om">
+      {{ if .Site.Params.github }}
+      <div class="col-xs-3 col-md-2"><a href="https://github.com/{{ .Site.Params.github }}">GitHub</a></div>
+      {{ end }}
+      {{ if .Site.Params.instagram }}
+      <div class="col-xs-3 col-md-2"><a href="https://instagram.com/{{ .Site.Params.instagram }}">Instagram</a></div>
+      {{ end }}
+      {{ if .Site.Params.facebook }}
+      <div class="col-xs-3 col-md-2"><a href="https://facebook.com/{{ .Site.Params.facebook }}">Facebook</a></div>
+      {{ end }}
+      {{ if or (.Site.Params.copyright) (.Site.Params.credit) }}
+      <div class="col-xs-12">
+          {{ if .Site.Params.copyright }}
+          Copyright &copy; {{ now.Format "2006" }} {{ .Site.Title }}
+          {{ end }}
+</div>
+          <div class="row">
+        					<div class="col-xs-4 col-xs-offset-4 ">
+        						<div class="fb-like" data-href="https://www.facebook.com/Kommunal-og-Regionsvalg-2017-1174689772639649/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+
+        						<div id="fb-root"></div>
+
+        					</div>
+        				</div>
+      {{ end }}
+
+  </footer>
+
+<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+<script src="{{.Site.BaseURL}}js/nivo-lightbox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
+<script src="{{.Site.BaseURL}}js/scripts.js"></script>
+
+</body>
+</html>

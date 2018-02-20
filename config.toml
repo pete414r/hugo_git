@@ -1,3 +1,52 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Design systems"
+theme = "hugo_design_systems"
+publishDir = "public"
+
+[Params]
+    author = "pete414r"
+    facebook = "peter414r"
+    instagram = "peter414r"
+    github = "peter414r"
+    copyright = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  mood = "moods"
+
+[[menu.main]]
+    name = "Home"
+    title = "Home"
+    weight = 1
+    identifier = "home"
+    url = "/"
+
+[[menu.main]]
+    name = "Dokumentation"
+    title = "Dokumentation"
+    weight = 2
+    identifier = "dokumentation"
+    url = "/dokumentation/"
+
+[[menu.main]]
+        name = "datavirsualisering"
+        title = "datavirsualisering"
+        weight = 3
+        identifier = "datavirsualisering"
+        url = "/datavirsualisering/"
+
+[[menu.main]]
+            name = "Blog"
+            title = "Blog"
+            weight = 4
+            identifier = "blog"
+            url = "/blog/"
+
+[[menu.main]]
+    name = "Om"
+    title = "Om"
+    weight = 5
+    identifier = "om"
+    url = "/om"

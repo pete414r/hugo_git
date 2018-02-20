@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dokumentation on Design systems</title>
+    <link>http://www.prfrankild.dk/sem3/design_systems/dokumentation/</link>
+    <description>Recent content in Dokumentation on Design systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2018 08:52:44 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.prfrankild.dk/sem3/design_systems/dokumentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lightbox</title>
+      <link>http://www.prfrankild.dk/sem3/design_systems/dokumentation/lightbox/</link>
+      <pubDate>Tue, 06 Feb 2018 15:32:48 +0100</pubDate>
+      
+      <guid>http://www.prfrankild.dk/sem3/design_systems/dokumentation/lightbox/</guid>
+      <description>Lightbox i theme, klik på billedet  [![campus](../img/pete414r.jpg)](../img/pete414r.jpg)</description>
+    </item>
+    
+    <item>
+      <title>Typografi</title>
+      <link>http://www.prfrankild.dk/sem3/design_systems/dokumentation/typografi/</link>
+      <pubDate>Thu, 01 Feb 2018 08:53:38 +0100</pubDate>
+      
+      <guid>http://www.prfrankild.dk/sem3/design_systems/dokumentation/typografi/</guid>
+      <description>Play, Arial sans serif til overskrifter og brødtekst.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ornare id leo ac cursus. Mauris consequat pulvinar velit vel rhoncus.
+Typografisk hierarki</description>
+    </item>
+    
+    <item>
+      <title>Farver</title>
+      <link>http://www.prfrankild.dk/sem3/design_systems/dokumentation/farver/</link>
+      <pubDate>Thu, 01 Feb 2018 08:53:22 +0100</pubDate>
+      
+      <guid>http://www.prfrankild.dk/sem3/design_systems/dokumentation/farver/</guid>
+      <description>Farver i themet
+Primære farver
+Sekundære farver</description>
+    </item>
+    
+    <item>
+      <title>Knapper</title>
+      <link>http://www.prfrankild.dk/sem3/design_systems/dokumentation/buttons/</link>
+      <pubDate>Thu, 01 Feb 2018 08:53:22 +0100</pubDate>
+      
+      <guid>http://www.prfrankild.dk/sem3/design_systems/dokumentation/buttons/</guid>
+      <description>Tilføj classen buttons i theme
+&amp;lt;a href=&amp;quot;&amp;quot; class=&amp;quot;btns&amp;quot;&amp;gt;knaptxt&amp;lt;/a&amp;gt;
+Resultatet giver en knap som følgende:
+Knaptxt</description>
+    </item>
+    
+  </channel>
+</rss>
