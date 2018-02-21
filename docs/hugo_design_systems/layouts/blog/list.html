@@ -1,0 +1,38 @@
+{{ partial "header.html" . }}
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+          <h1 class="dokumentation">{{ .Title }}</h1>
+<section>{{ .Content }}</section>
+{{ range .Pages }}
+<article>
+  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+
+      <div class="date" title='{{ .Date.Format "Mon Jan 2 2006 15:04:05 MST" }}'>{{ .Date.Format "Jan 2, 2006" }} · {{ .ReadingTime }} minute read </div>
+      <div style="color:lightred; font-size:16px; font-family:Comic Sans MS;">{{ if .Params.tags }}<strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+      <div style="color:lightblu; font-size:16px; font-family:Calibri;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+      <div style="color:grey; font-size:16px; font-family:Times New Roman;">{{ if .Params.moods }}<strong>Moods:</strong> {{range .Params.moods}}<a href="{{ "/moods/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+
+</article>
+{{ end }}
+</div>
+</div>
+</div>
+<h1 class="cooking">Cooking in progress..</h1>
+<div id="cooking">
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div id="area">
+    <div id="sides">
+      <div id="pan"></div>
+      <div id="handle"></div>
+    </div>
+    <div id="pancake">
+      <div id="pastry"></div>
+    </div>
+  </div>
+</div>
+{{ partial "footer.html" . }}

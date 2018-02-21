@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+          <h1 class="dokumentation">{{ .Title }}</h1>
+<section>{{ .Content }}</section>
+{{ range .Pages }}
+
+<h3>{{ .Title }}</h3>
+<div> {{ .Content }}</div>
+{{ end }}
+</div>
+</div>
+</div>
+<h1 class="cooking">Cooking in progress..</h1>
+<div id="cooking">
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div id="area">
+    <div id="sides">
+      <div id="pan"></div>
+      <div id="handle"></div>
+    </div>
+    <div id="pancake">
+      <div id="pastry"></div>
+    </div>
+  </div>
+</div>
+{{ partial "footer.html" . }}
