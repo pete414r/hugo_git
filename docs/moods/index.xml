@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moods on Design systems</title>
+    <link>https://pete414r.github.io/hugo_git/moods/</link>
+    <description>Recent content in Moods on Design systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2018 12:10:35 +0100</lastBuildDate>
+    
+	<atom:link href="https://pete414r.github.io/hugo_git/moods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy</title>
+      <link>https://pete414r.github.io/hugo_git/moods/happy/</link>
+      <pubDate>Mon, 05 Feb 2018 12:10:35 +0100</pubDate>
+      
+      <guid>https://pete414r.github.io/hugo_git/moods/happy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upbeat</title>
+      <link>https://pete414r.github.io/hugo_git/moods/upbeat/</link>
+      <pubDate>Mon, 05 Feb 2018 12:10:35 +0100</pubDate>
+      
+      <guid>https://pete414r.github.io/hugo_git/moods/upbeat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

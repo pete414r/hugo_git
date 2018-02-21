@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cat3 on Design systems</title>
+    <link>https://pete414r.github.io/hugo_git/categories/cat3/</link>
+    <description>Recent content in Cat3 on Design systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2018 12:10:35 +0100</lastBuildDate>
+    
+	<atom:link href="https://pete414r.github.io/hugo_git/categories/cat3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blog3</title>
+      <link>https://pete414r.github.io/hugo_git/blog/blog3/</link>
+      <pubDate>Mon, 05 Feb 2018 12:10:35 +0100</pubDate>
+      
+      <guid>https://pete414r.github.io/hugo_git/blog/blog3/</guid>
+      <description>det her er blog3</description>
+    </item>
+    
+  </channel>
+</rss>

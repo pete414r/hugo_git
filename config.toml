@@ -1,8 +1,8 @@
-baseURL = "http://www.prfrankild.dk/sem3/design_systems/"
+baseURL = "https://pete414r.github.io/hugo_git/"
 languageCode = "en-us"
 title = "Design systems"
 theme = "hugo_design_systems"
-publishDir = "public"
+publishDir = "docs"
 
 [Params]
     author = "pete414r"

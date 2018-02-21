@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/datavisualisering/</loc>
+    <lastmod>2018-02-08T08:48:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/dokumentation/lightbox/</loc>
+    <lastmod>2018-02-06T15:32:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/blog/blog1/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/blog/blog2/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/blog/blog3/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/blog/gallari/</loc>
+    <lastmod>2018-02-05T11:06:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/blog/post1/</loc>
+    <lastmod>2018-02-05T11:06:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/blog/post2/</loc>
+    <lastmod>2018-02-05T10:57:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/blog/post3/</loc>
+    <lastmod>2018-02-05T10:38:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/blog/post9/</loc>
+    <lastmod>2018-02-05T10:36:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/blog/post8/</loc>
+    <lastmod>2018-02-05T09:58:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/</loc>
+    <lastmod>2018-02-01T09:02:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/dokumentation/typografi/</loc>
+    <lastmod>2018-02-01T08:53:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/dokumentation/farver/</loc>
+    <lastmod>2018-02-01T08:53:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/dokumentation/buttons/</loc>
+    <lastmod>2018-02-01T08:53:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/blog/</loc>
+    <lastmod>2018-02-01T08:52:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/dokumentation/</loc>
+    <lastmod>2018-02-01T08:52:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/om/</loc>
+    <lastmod>2018-02-01T08:45:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/categories/cat3/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/categories/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/moods/happy/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/moods/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/tags/tag2/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/tags/tag3/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/tags/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/categories/tekst-post/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/moods/upbeat/</loc>
+    <lastmod>2018-02-05T12:10:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pete414r.github.io/hugo_git/categories/video-og-tekst/</loc>
+    <lastmod>2018-02-05T11:06:21+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
